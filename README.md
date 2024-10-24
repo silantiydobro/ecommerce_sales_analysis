@@ -65,6 +65,7 @@
 - `discount_amount`
 - `gross_amount`
 - `net_amount`
+
 До кожної з відформатованих колонок додав приставку "clear". Решту приховав.
 
 В `age_group` замінив “above 60” на “60+” та “under 18” на “Under 18”.
